@@ -8,6 +8,8 @@ wall as that shown in the Figure 1:
 
 ![](Figure1.png)
 
+![](Mesh.eps)
+
 
 
 ## Authors
