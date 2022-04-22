@@ -6,7 +6,7 @@ Find the eigenvalues corresponding to the vibration modes of a 2D
 rectangular rigid cavity filled with air and with one absorbing
 wall as that shown in the Figure 1:
 
-![](Figure1)
+![](Figure1.png)
 
 
 
