@@ -17,7 +17,7 @@ eigvalues corresponding to the vibration modes.
 
 ## Problem
 
-The programming language is written by Matlab. I applied the code
+The programming language is written by Matlab 2015a version. I applied the code
 to solve the following problem: Find the eigenvalues corresponding to the vibration modes of a 2D
 rectangular rigid cavity filled with air and with one absorbing
 wall as that shown in the Figure 1:
