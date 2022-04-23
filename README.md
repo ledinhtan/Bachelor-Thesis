@@ -26,6 +26,6 @@ wall as that shown in the Figure 1:
 
 The mesh creating by my code is shown as the follows:
 
-![](Mesh.png)
+![](Mesh.jpg)
 
 We may run the code to see the numerical results.
