@@ -3,8 +3,8 @@
 
 This is my bachelor thesis which is Finite Element Analysis
 of A Quadratic Eigenvalue Problem Arising in Dissipative Acoustics.
-In my thesis, the method used is finite element method with zeroth-
-order Raviart-Thomas elements, which results in a quadratic eigenvalue
+In my thesis, the method used is finite element method with zeroth-order 
+Raviart-Thomas elements, which results in a quadratic eigenvalue
 problem. In order to solve the quadratic eigenvalue problem arising
 in dissipative acoustics, the Matlab eigensolver eigs is used to find
 eigvalues corresponding to the vibration modes. 
